@@ -1,3 +1,6 @@
+# Updates (January 8th 2025)
+The content of this repository became very obsolete as Bible.is now [FCBH Foundation](https://www.faithcomesbyhearing.com/) carried a bunch of significant change to their website and the way we can access their data. They now provide the [Bible Brain API](https://www.faithcomesbyhearing.com/audio-bible-resources/bible-brain) and alignment for each verse for most audios. Accessing the content from Bible.is now requires an API Key that you can request from [Bible Brain](https://4.dbt.io/api_key/request)
+
 # datasets-CMU_Wilderness
 CMU Wilderness Multilingual Speech Dataset
 
